@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+ <name>sim</name>
+ <version>1.0.0</version>
+ <description>Kinematics Simulation</description>
+
+ <license>MIT</license>
+
+ <author email="dsor@gmail.com">DSORTeam</author>
+ <maintainer email="dsor@gmail.com">DSORTeam</maintainer>
+
+ <buildtool_depend>catkin</buildtool_depend>
+ <depend>pf</depend>
+ <depend>rospy</depend>
+
+</package>
